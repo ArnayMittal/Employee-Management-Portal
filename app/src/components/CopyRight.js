@@ -14,7 +14,7 @@ export default function CopyRight(props) {
       <a
         target="_blank"
         color="inherit"
-        href="https://www.linkedin.com/in/ritesh-macwan-8a70891ba/"
+        href="https://www.linkedin.com/in/arnay-mittal-842071261/"
       >
         Arnay Mittal
       </a>{' '}
